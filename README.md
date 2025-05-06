@@ -7,16 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/atifalam2004" target="blank"><img src="https://img.shields.io/twitter/follow/atifala43692255?logo=twitter&style=for-the-badge" alt="atifalam2004" /></a> </p>
 
-- 🌱 I’m currently learning **python, JAVA**
+- 🌱 I’m currently learning **web development,**
 
 - 📫 How to reach me **atifalam870970@gmai.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **curious about new technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/atifalam2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atifalam2004" height="30" width="40" /></a>
-<a href="https://instagram.com/its_atif.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_atif.py" height="30" width="40" /></a>
+<a href="https://instagram.com/atif.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_atif.py" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
